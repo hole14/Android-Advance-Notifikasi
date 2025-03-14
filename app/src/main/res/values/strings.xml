@@ -4,4 +4,7 @@
     <string name="notification_title">Pemprogamman Android Advance</string>
     <string name="notification_message">Mari belajar materi notifikasi di android</string>
     <string name="notification_seubtext">Reminder</string>
+    <string name="open_detail">Open Detail</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
 </resources>
